@@ -90,7 +90,8 @@ sudo ./update.sh;
 ```  
 
 ### Something doesn't work?
-Hit me up on [Github](https://github.com/georgethemarmot/katoolin3/issues/new/choose).
+I'm not really a dev, I'm just trying to do minor fixes
+(Don't) Hit me up on [Github](https://github.com/georgethemarmot/katoolin3/issues/new/choose).
 
 ### Uninstalling
 To uninstall katoolin3 execute
