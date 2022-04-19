@@ -2,7 +2,7 @@
 Katoolin3 brings all programs available in Kali Linux to Debian and Ubuntu.
 
 ### Description
-This program is a port of [katoolin](https://github.com/LionSec/katoolin) from [LionSec](https://github.com/LionSec) to python3. Katoolin3 offers several improvements over katoolin:
+This program is a port of [katoolin](https://github.com/s-h-3-l-l/katoolin3) from [LionSec](https://github.com/s-h-3-l-l) to python3. Katoolin3 offers several improvements over katoolin:
 - __Up to date packages__    
 The old katoolin uses an outdated package list. Katoolin3 always keeps its package list up to date.  
 _(Last updated: 18 Feb 2020)_
@@ -44,7 +44,7 @@ It is not recommended to install all tools.
 
 ### Installation
 ```bash
-git clone https://github.com/s-h-3-l-l/katoolin3;
+git clone https://github.com/georgethemarmot/katoolin3;
 cd katoolin3;
 chmod +x ./install.sh;
 sudo ./install.sh;
@@ -90,7 +90,7 @@ sudo ./update.sh;
 ```  
 
 ### Something doesn't work?
-Hit me up on [Github](https://github.com/s-h-3-l-l/katoolin3/issues/new/choose).
+Hit me up on [Github](https://github.com/georgethemarmot/katoolin3/issues/new/choose).
 
 ### Uninstalling
 To uninstall katoolin3 execute
